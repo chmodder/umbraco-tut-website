@@ -1,0 +1,10 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/umbMaster.master" AutoEventWireup="true" %>
+
+
+<asp:Content ContentPlaceHolderId="cp_content" runat="server">
+	<!-- Insert "cp_content" markup here -->
+	<h5><umbraco:Item field="newsTitle" runat="server" /></h5>
+	<umbraco:Item field="date" runat="server" />
+	<img src='<umbraco:Item field="featureImg" runat="server" Xslt="umbraco.library:GetMedia({0},false())/umbracoFile"></umbraco:Item>' alt=''/>
+	<umbraco:Item field="story" runat="server" />
+</asp:Content>

@@ -8,8 +8,10 @@
       <div id="contentHeader">  
           <h2><umbraco:Item ID="Item1" runat="server" field="pageName"/></h2>
       </div>
-      
+	<hr />
+      <umbraco:Macro Alias="NewsList" runat="server" />
       <umbraco:Item ID="Item2" runat="server" field="bodyText" />
+	<hr />
 </div>
 
 </asp:Content>

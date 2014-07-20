@@ -60,10 +60,3 @@
 2013-11-19 09:58:23,393 [25] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 67] Content 'NewsMedMacro' with Id '1079' has been published.
 2013-11-19 10:21:00,182 [25] INFO  umbraco.BasePages.BasePage - [Thread 31] User TestUser (Id: 1) logged in
 2013-11-19 10:29:46,030 [25] INFO  umbraco.BasePages.BasePage - [Thread 53] User admin (Id: 0) logged in
-2013-11-19 11:39:27,265 [25] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 56] Content 'NewsMedMacro' with Id '1079' has been published.
-2013-11-19 11:48:33,358 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Starting resolution types of Umbraco.Web.BaseRest.RestExtensionAttribute
-2013-11-19 11:48:33,371 [25] INFO  Umbraco.Core.PluginManager - [Thread 36] Completed resolution of types of Umbraco.Web.BaseRest.RestExtensionAttribute, found 2 (took 13ms)
-2013-11-19 12:00:07,421 [25] INFO  umbraco.cms.businesslogic.web.Document - [Thread 53] New document 1080
-2013-11-19 12:01:48,149 [25] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 52] Content 'News' with Id '1080' has been published.
-2013-11-19 12:05:54,645 [25] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 55] Content 'NewsMedMacro' with Id '1079' has been published.
-2013-11-19 12:08:11,627 [25] INFO  umbraco.content - [Thread 52] Loading content from database...

@@ -67,7 +67,3 @@
 2013-11-19 12:01:48,149 [25] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 52] Content 'News' with Id '1080' has been published.
 2013-11-19 12:05:54,645 [25] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 55] Content 'NewsMedMacro' with Id '1079' has been published.
 2013-11-19 12:08:11,627 [25] INFO  umbraco.content - [Thread 52] Loading content from database...
-2013-11-19 12:12:55,591 [25] INFO  umbraco.cms.businesslogic.web.Document - [Thread 55] New document 1081
-2013-11-19 12:13:53,019 [25] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 52] Content 'prut' with Id '1081' has been published.
-2013-11-19 12:14:17,345 [25] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 36] Content 'prut' with Id '1081' has been published.
-2013-11-19 12:17:38,101 [25] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 67] Content 'prut' with Id '1081' has been published.

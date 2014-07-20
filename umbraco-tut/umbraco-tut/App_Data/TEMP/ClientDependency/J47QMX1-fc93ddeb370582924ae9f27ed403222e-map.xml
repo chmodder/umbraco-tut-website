@@ -752,33 +752,4 @@
       <file name="/umbraco_client/panel/javascript.js" />
     </files>
   </item>
-  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczs" file="C:\Users\322773\Documents\My Box Files\Documents\skole\Projekter - hovedforløb\umbraco-tut-website\umbraco-tut\umbraco-tut\App_Data\TEMP\ClientDependency\2_888b1391838244a5bef8848b512ac8a2.cdC" compression="gzip" version="2">
-    <files>
-      <file name="/umbraco_client/ui/default.css" />
-      <file name="/umbraco_client/modal/style.css" />
-      <file name="/umbraco_client/menuicon/style.css" />
-      <file name="/umbraco_client/propertypane/style.css" />
-      <file name="/umbraco_client/scrollingmenu/style.css" />
-      <file name="/umbraco_client/panel/style.css" />
-    </files>
-  </item>
-  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC91aS9iYXNlMi5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0FwcGxpY2F0aW9uQWN0aW9ucy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb1V0aWxzLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQ2xpZW50TWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvVUkva25vY2tvdXQuanM7L3VtYnJhY29fY2xpZW50L1VJL2tub2Nrb3V0Lm1hcHBpbmcuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczs" file="C:\Users\322773\Documents\My Box Files\Documents\skole\Projekter - hovedforløb\umbraco-tut-website\umbraco-tut\umbraco-tut\App_Data\TEMP\ClientDependency\2_0eaeea2fad874d22b55c694e25ed62bd.cdJ" compression="gzip" version="2">
-    <files>
-      <file name="/umbraco_client/Application/NamespaceManager.js" />
-      <file name="/umbraco_client/ui/jquery.js" />
-      <file name="/umbraco_client/ui/jqueryui.js" />
-      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
-      <file name="/umbraco_client/ui/base2.js" />
-      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
-      <file name="/umbraco_client/Application/UmbracoUtils.js" />
-      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
-      <file name="/umbraco_client/UI/knockout.js" />
-      <file name="/umbraco_client/UI/knockout.mapping.js" />
-      <file name="/umbraco_client/modal/modal.js" />
-      <file name="/umbraco_client/ui/default.js" />
-      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
-      <file name="/umbraco_client/scrollingmenu/javascript.js" />
-      <file name="/umbraco_client/panel/javascript.js" />
-    </files>
-  </item>
 </map>
